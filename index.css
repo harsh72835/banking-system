@@ -1,0 +1,51 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    border: 0em;
+}
+.inner{
+    height: 1000px;
+    width: auto;
+    background-image: url('cta01.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    /*opacity: 0.8;*/
+}
+h1,button{
+    margin-top: 20px;
+    padding-top: 150px;
+    text-align: center;
+    vertical-align: center;
+    color: #ffffff; 
+}
+.btn-grp{
+    padding-left: 570px ;
+}
+.form{
+    padding: 8px;
+    text-align: center;
+    margin: 1px 25px;
+}
+form{
+    margin-left: 250px;
+}
+table{
+    height: 500px;
+    width: 450px;
+    margin-left: 250px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(182, 103, 103);
+}
+input{
+    width: 90%;
+    padding-bottom: 5px;
+}
+/* .inner-footer{
+    padding-left: 0px;
+    padding-right: 0px;
+} */
+.footer{
+    background-color: grey;
+    text-align: center;
+}
